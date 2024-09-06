@@ -1,0 +1,100 @@
+Fecha de inicio de la monitorización: 2020-06-28 16:27:25.522000
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:27:25.522000
+
+Hallazgo encontrado: 4000
+
+Seleccion del parametro: Infanteria final
+
+Se especifica la norma: rango  15000 - 20000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: 16000
+
+
+¡Atencion! Hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:27:27.332000
+
+Hallazgo encontrado: 5680
+
+Seleccion del parametro: Caballeria inicial
+
+Se especifica la norma: rango  5000 - 10000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: Dentro del rango
+
+
+No hay discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:36:54.906000
+
+Hallazgo encontrado: 6520
+
+Se selecciona el parametro: Caballeria final
+
+Se especifica la norma: rango  4000 - 5000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: 1520
+
+
+¡Atencion! Hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:36:55.636000
+
+Hallazgo encontrado: 4000
+
+Se selecciona el parametro: Infanteria final
+
+Se especifica la norma: rango  15000 - 20000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: 16000
+
+
+¡Atencion! Hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:20:57.896000
+
+Hallazgo encontrado: 17500
+
+Se selecciona el parametro: Infanteria inicial
+
+Se especifica la norma: rango  15000 - 30000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: Dentro del rango
+
+
+No hay discrepancia, todo normal.
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:20:59.226000
+
+Hallazgo encontrado: 41
+
+Se selecciona el parametro: Cannons
+
+Se especifica la norma: rango  10 - 30
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: 11
+
+
+¡Importante! El hallazgo no se corresponde con la norma, hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:21:00.106000
+
+Hallazgo encontrado: 19000
+
+Se selecciona el parametro: Infanteria inicial
+
+Se especifica la norma: rango  15000 - 30000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: Dentro del rango
+
+
+No hay discrepancia, todo normal.
+
+-------------------------------------------------------

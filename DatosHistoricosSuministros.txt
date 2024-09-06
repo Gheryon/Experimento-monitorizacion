@@ -1,0 +1,128 @@
+Fecha de inicio de la monitorización: 2020-06-28 16:34:18.617000
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:34:18.617000
+
+Hallazgo encontrado: 6524
+
+Se selecciona el parametro: Madera
+
+Se especifica la norma: rango  3000 - 5000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: 1524
+
+
+¡Atencion! Hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:34:19.427000
+
+Hallazgo encontrado: 711000
+
+Se selecciona el parametro: Agua
+
+Se especifica la norma: rango  650000 - 700000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: 11000
+
+
+¡Atencion! Hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 16:34:20.647000
+
+Hallazgo encontrado: 3258
+
+Se selecciona el parametro: Madera
+
+Se especifica la norma: rango  3000 - 5000
+
+Comparamos el hallazgo con la norma y obtenemos la diferencia: Dentro del rango
+
+
+No hay discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:08:38.914000
+
+Hallazgo encontrado: 21221
+
+Se selecciona el parametro: Aceite
+
+Se especifica la norma: rango  10000 - 15000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: 6221
+
+
+¡Importante! El hallazgo no se corresponde con la norma, hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:08:58.577000
+
+Hallazgo encontrado: 223000
+
+Se selecciona el parametro: Agua
+
+Se especifica la norma: rango  650000 - 700000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: 477000
+
+
+¡Importante! El hallazgo no se corresponde con la norma, hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:08:59.807000
+
+Hallazgo encontrado: 564212
+
+Se selecciona el parametro: Agua
+
+Se especifica la norma: rango  650000 - 700000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: 135788
+
+
+¡Importante! El hallazgo no se corresponde con la norma, hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:09:31.497000
+
+Hallazgo encontrado: 628820
+
+Se selecciona el parametro: Agua
+
+Se especifica la norma: rango  650000 - 700000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: 71180
+
+
+¡Importante! El hallazgo no se corresponde con la norma, hay una discrepancia
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:09:35.547000
+
+Hallazgo encontrado: 3238
+
+Se selecciona el parametro: Madera
+
+Se especifica la norma: rango  3000 - 5000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: Dentro del rango
+
+
+No hay discrepancia, todo normal.
+
+-------------------------------------------------------
+Fecha de fin de la monitorización de datos: 2020-06-28 21:09:43.007000
+
+Hallazgo encontrado: 763000
+
+Se selecciona el parametro: Agua
+
+Se especifica la norma: rango  650000 - 700000
+
+Se compara el hallazgo con la norma y se obtiene la diferencia: 63000
+
+
+¡Importante! El hallazgo no se corresponde con la norma, hay una discrepancia
+
+-------------------------------------------------------
